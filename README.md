@@ -19,9 +19,6 @@ Knight Game é um jogo de plataforma com elementos de combate, exploração e pr
 - Arthur Sales  
 - Thiago Cavalcanti
 
-## 📁 Estrutura do Projeto
-
-
 ## 🚀 Como Rodar o Jogo
 
 1. Baixe o repositório.
